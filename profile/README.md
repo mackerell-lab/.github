@@ -24,6 +24,7 @@ https://pubs.acs.org/doi/10.1021/acs.jctc.2c00115
 | Dr. Asuka Orr | Post-Doc | Ph.D. Chemical Engineering, Texas A and M University |
 | Payal Chatterjee | Graduate Student | TBA | 
 | Suliman Sharif | Graduate Student | MSc. Organic Chemistry |
+| Ronald Kasl | Systems Programmer | TBA |
 
 #### Our Lab:
 

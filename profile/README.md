@@ -12,8 +12,7 @@ Home Website: http://mackerell.umaryland.edu/index.shtml
 Recent Papers: "Harnessing Deep Learning for Optimization of Lennard-Jones Parameters for the Polarizable Classical Drude Oscillator Force Field"
 https://pubs.acs.org/doi/10.1021/acs.jctc.2c00115
 
-
-#### People
+#### Current Roster
 
 | Name | Title | Degree |
 |-|-|-|

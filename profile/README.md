@@ -28,3 +28,7 @@ https://pubs.acs.org/doi/10.1021/acs.jctc.2c00115
 #### Our Lab:
 
 ![group_picture](https://user-images.githubusercontent.com/11812946/167899178-f01584fa-a7b1-408f-8e8b-5ae75581e29c.jpeg)
+
+#### Statistics:
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mackerell-lab)

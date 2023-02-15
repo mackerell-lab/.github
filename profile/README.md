@@ -23,7 +23,6 @@ https://pubs.acs.org/doi/10.1021/acs.jctc.2c00115
 | Dr. Asuka Orr | Post-Doc | Ph.D. Chemical Engineering, Texas A and M University |
 | Dr. Payal Chatterjee | Recently Graduated | PhD. Pharmaceutical Sciences- University of Maryland Baltimore | 
 | Suliman Sharif | Graduate Student | MSc. Organic Chemistry |
-| Ronald Kasl | Systems Programmer | TBA |
 
 #### Our Lab:
 

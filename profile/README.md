@@ -7,7 +7,7 @@ If you are a collaborator, please browse through and feel free to reach out to A
 
 #### Important Links
 
-Home Website: http://mackerell.umaryland.edu/index.shtml
+Home Website: http://mackerell.umaryland.edu
 
 Recent Papers: "Harnessing Deep Learning for Optimization of Lennard-Jones Parameters for the Polarizable Classical Drude Oscillator Force Field"
 https://pubs.acs.org/doi/10.1021/acs.jctc.2c00115

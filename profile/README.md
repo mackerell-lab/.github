@@ -2,7 +2,7 @@
 
 # The MacKerell Group
 
-Hi there, welcome to the MacKerell Group Github. This is our github that has both our public and private code. 
+Welcome to the MacKerell Group Github. This is our github that has both our public and private code. 
 If you are a collaborator, please browse through and feel free to reach out to Alex or Sulstice for any access to repositories.
 
 #### Important Links

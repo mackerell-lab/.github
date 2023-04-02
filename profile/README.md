@@ -8,19 +8,28 @@ Welcome to the MacKerell Group Github. If you are a collaborator, please browse 
 
 Home Website: http://mackerell.umaryland.edu
 
-Recent Papers: "Harnessing Deep Learning for Optimization of Lennard-Jones Parameters for the Polarizable Classical Drude Oscillator Force Field"
-https://pubs.acs.org/doi/10.1021/acs.jctc.2c00115
+Recent Papers: 
+“Deep Neural Network Model to Predict the Electrostatic Parameters in the Polarizable Classical Drude Oscillator Force Field”
+https://pubs.acs.org/doi/10.1021/acs.jctc.1c01166
+
+“SILCS-RNA: Toward a Structure-Based Drug Design Approach for Targeting RNAs with Small Molecules”
+https://pubs.acs.org/doi/10.1021/acs.jctc.2c00381
+
+“In silico identification of a β2-adrenoceptor allosteric site that selectively augments canonical β2AR-Gs signaling and function” 
+https://www.pnas.org/doi/10.1073/pnas.2214024119
+
 
 #### Current Roster
 
 | Name | Title | Degree |
 |-|-|-|
-| Dr. Alexander MacKerell Jr. | Principal Investigator | Ph.D. Biochemistry, Rutgers University | 
-| Dr. Wenbo Yu | Principal Investigator | Ph.D. Condensed Matter Physics, Hefei National Laboratory for Physical Sciences at the Microscale |
+| Dr. Alexander MacKerell Jr. | Professor | Ph.D. Biochemistry, Rutgers University | 
+| Dr. Wenbo Yu | Research Assistant Professor | Ph.D. Condensed Matter Physics, Hefei National Laboratory for Physical Sciences at the Microscale |
 | Dr. Anmol Kumar | Post-Doc | Ph.D. Computational Chemistry, IIT Kanpur, India | 
-| Dr. Mingtian Zhao | Post-Doc | Ph.D. |
+| Dr. Mingtian Zhao | Post-Doc | Ph.D. Condensed Matter Physics, Nankai University |
 | Dr. Asuka Orr | Post-Doc | Ph.D. Chemical Engineering, Texas A and M University |
-| Dr. Payal Chatterjee | Recently Graduated | PhD. Pharmaceutical Sciences- University of Maryland Baltimore | 
+| Dr. Anastasia Croitoru | Post-Doc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |
+| Dr. Yingling Nan | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
 | Suliman Sharif | Graduate Student | MSc. Organic Chemistry |
 
 #### Our Lab:

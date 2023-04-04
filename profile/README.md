@@ -6,7 +6,7 @@ Welcome to the MacKerell Group Github. If you are a collaborator, please browse 
 
 #### Important Links
 
-Home Website: http://mackerell.umaryland.edu
+Home Website: https://mackerell.umaryland.edu
 
 Recent Papers: 
 “Deep Neural Network Model to Predict the Electrostatic Parameters in the Polarizable Classical Drude Oscillator Force Field”

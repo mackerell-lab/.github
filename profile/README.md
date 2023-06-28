@@ -30,7 +30,7 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 | Dr. Asuka Orr | asukaorr@outerbanks.umaryland.edu | Post-Doc | Ph.D. Chemical Engineering, Texas A & M University |
 | Dr. Anastasia Croitoru | anac@outerbanks.umaryland.edu | Post-Doc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |
 | Dr. Yingling Nan | ynan@outerbanks.umaryland.edu | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
-| Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Chemistry, University of Florida |
+| Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, Florida International University |
 | Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, University of Massachusetts Amherst |
 | Suliman Sharif | sulstice@outerbanks.umaryland.edu | Graduate Student | MSc. Organic Chemistry |
 

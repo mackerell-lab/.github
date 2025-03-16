@@ -27,12 +27,12 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 | Dr. Wenbo Yu | wenbo@outerbanks.umaryland.edu | Research Assistant Professor | Ph.D. Condensed Matter Physics, Hefei National Laboratory for Physical Sciences at the Microscale |
 | Dr. Anmol Kumar | anmol@outerbanks.umaryland.edu | Research Associate Faculty | Ph.D. Theoretical and Computational Chemistry, IIT Kanpur, India | 
 | Dr. Mingtian Zhao | zhaomt@outerbanks.umaryland.edu | Post-Doc | Ph.D. Condensed Matter Physics, Nankai University |
-| Dr. Asuka Orr | asukaorr@outerbanks.umaryland.edu | Post-Doc | Ph.D. Chemical Engineering, Texas A & M University |
 | Dr. Anastasia Croitoru | anac@outerbanks.umaryland.edu | Post-Doc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |
 | Dr. Yingling Nan | ynan@outerbanks.umaryland.edu | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
 | Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, Florida International University |
 | Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, University of Massachusetts Amherst |
 | Suliman Sharif | sulstice@outerbanks.umaryland.edu | Graduate Student | MSc. Organic Chemistry |
+| Jihyeon Lee | jihyeon.lee@outerbanks.umaryland.edu | Graduate Student | M.Sc. Chemistry |
 
 #### Our Lab:
 

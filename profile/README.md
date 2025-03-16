@@ -25,7 +25,7 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 |-|-|-|-|
 | Dr. Alexander MacKerell Jr. | alex@outerbanks.umaryland.edu | Professor | Ph.D. Biochemistry, Rutgers University | 
 | Dr. Wenbo Yu | wenbo@outerbanks.umaryland.edu | Research Assistant Professor | Ph.D. Condensed Matter Physics, Hefei National Laboratory for Physical Sciences at the Microscale |
-| Dr. Anmol Kumar | anmol@outerbanks.umaryland.edu | Research Associate Faculty | Ph.D. Computational Chemistry, IIT Kanpur, India | 
+| Dr. Anmol Kumar | anmol@outerbanks.umaryland.edu | Research Associate Faculty | Ph.D. Theoretical and Computational Chemistry, IIT Kanpur, India | 
 | Dr. Mingtian Zhao | zhaomt@outerbanks.umaryland.edu | Post-Doc | Ph.D. Condensed Matter Physics, Nankai University |
 | Dr. Asuka Orr | asukaorr@outerbanks.umaryland.edu | Post-Doc | Ph.D. Chemical Engineering, Texas A & M University |
 | Dr. Anastasia Croitoru | anac@outerbanks.umaryland.edu | Post-Doc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |

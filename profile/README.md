@@ -28,7 +28,7 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 | Dr. Anmol Kumar | anmol@outerbanks.umaryland.edu | Research Associate Faculty | Ph.D. Theoretical and Computational Chemistry, IIT Kanpur, India | 
 | Dr. Mingtian Zhao | zhaomt@outerbanks.umaryland.edu | Post-Doc | Ph.D. Condensed Matter Physics, Nankai University |
 | Dr. Anastasia Croitoru | anac@outerbanks.umaryland.edu | Post-Doc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |
-| Dr. Yingling Nan | ynan@outerbanks.umaryland.edu | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
+| Dr. Yiling Nan | ynan@outerbanks.umaryland.edu | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
 | Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, Florida International University |
 | Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, University of Massachusetts Amherst |
 | Suliman Sharif | sulstice@outerbanks.umaryland.edu | Graduate Student | MSc. Organic Chemistry |

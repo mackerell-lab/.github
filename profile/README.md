@@ -31,7 +31,7 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 | Dr. Yiling Nan | ynan@outerbanks.umaryland.edu | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
 | Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, Florida International University |
 | Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, University of Massachusetts Amherst |
-| Suliman Sharif | sulstice@outerbanks.umaryland.edu | Graduate Student | MSc. Organic Chemistry |
+| Dr. Suliman Sharif | sulstice@outerbanks.umaryland.edu | Collaborator | Ph.D. Pharmaceutical Sciences |
 | Jihyeon Lee | jihyeon.lee@outerbanks.umaryland.edu | Graduate Student | M.Sc. Chemistry |
 
 #### Our Lab:

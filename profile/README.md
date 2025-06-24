@@ -26,14 +26,15 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 | Dr. Alexander MacKerell Jr. | alex@outerbanks.umaryland.edu | Professor | Ph.D. Biochemistry, Rutgers University | 
 | Dr. Wenbo Yu | wenbo@outerbanks.umaryland.edu | Research Associate Professor | Ph.D. Condensed Matter Physics, Hefei National Laboratory for Physical Sciences at the Microscale |
 | Dr. Anmol Kumar | anmol@outerbanks.umaryland.edu | Research Associate | Ph.D. Theoretical and Computational Chemistry, IIT Kanpur, India | 
-| Dr. Mingtian Zhao | zhaomt@outerbanks.umaryland.edu | Post-Doc | Ph.D. Condensed Matter Physics, Nankai University |
-| Dr. Anastasia Croitoru | anac@outerbanks.umaryland.edu | Post-Doc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |
-| Dr. Yiling Nan | ynan@outerbanks.umaryland.edu | Post-Doc | Ph.D. Civil and Environmental Engineering, University of Alberta |
-| Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biophysics, Florida International University |
-| Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Post-Doc | Ph.D. Chemistry, University of Massachusetts Amherst |
-| Dr. Xiaojing Teng | tengxj@outerbanks.umaryland.edu | Senior Post-Doc | Ph.D. Biomedical Engineering, Texas A&M University |
-| Dr. Suvankar Ghosh | svnkr@outerbanks.umaryland.edu | Post-Doc | Ph.D. Computational Biology, IIT Guwahati, India |
-| Dr. Ge Yang | geyang@outerbanks.umaryland.edu | Post-Doc | Ph.D. Theoretical and Computational Chemistry, Nanjing University, China |
+| Dr. Mingtian Zhao | zhaomt@outerbanks.umaryland.edu | Postdoc | Ph.D. Condensed Matter Physics, Nankai University |
+| Dr. Anastasia Croitoru | anac@outerbanks.umaryland.edu | Postdoc | Ph.D. Development of Force Field Methods, CNRS - Ecole Polytechnique |
+| Dr. Yiling Nan | ynan@outerbanks.umaryland.edu | Postdoc | Ph.D. Civil and Environmental Engineering, University of Alberta |
+| Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Postdoc | Ph.D. Computational Biophysics, Florida International University |
+| Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Postdoc | Ph.D. Chemistry, University of Massachusetts Amherst |
+| Dr. Xiaojing Teng | tengxj@outerbanks.umaryland.edu | Senior Postdoc | Ph.D. Biomedical Engineering, Texas A&M University |
+| Dr. Suvankar Ghosh | svnkr@outerbanks.umaryland.edu | Postdoc | Ph.D. Computational Biology, IIT Guwahati, India |
+| Dr. Ge Yang | geyang@outerbanks.umaryland.edu | Postdoc | Ph.D. Theoretical and Computational Chemistry, Nanjing University, China |
+| Dr. Ashlin James Poruthoor | ashj@outerbanks.umaryland.edu | Postdoc | Ph.D. Biophysics, University of Rochester, NY
 | Jihyeon Lee | jihyeon@outerbanks.umaryland.edu | Graduate Student | M.Sc. Chemistry |
 
 #### Our Lab:

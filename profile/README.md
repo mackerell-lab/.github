@@ -32,9 +32,9 @@ https://www.pnas.org/doi/10.1073/pnas.2214024119
 | Dr. Prabin Baral | pbaral@outerbanks.umaryland.edu | Postdoc | Ph.D. Computational Biophysics, Florida International University |
 | Dr. Erik Nordquist | enord@outerbanks.umaryland.edu | Postdoc | Ph.D. Chemistry, University of Massachusetts Amherst |
 | Dr. Xiaojing Teng | tengxj@outerbanks.umaryland.edu | Senior Postdoc | Ph.D. Biomedical Engineering, Texas A&M University |
-| Dr. Suvankar Ghosh | svnkr@outerbanks.umaryland.edu | Postdoc | Ph.D. Computational Biology, IIT Guwahati, India |
-| Dr. Ge Yang | geyang@outerbanks.umaryland.edu | Postdoc | Ph.D. Theoretical and Computational Chemistry, Nanjing University, China |
-| Dr. Ashlin James Poruthoor | ashj@outerbanks.umaryland.edu | Postdoc | Ph.D. Biophysics, University of Rochester, NY
+| Dr. Suvankar Ghosh | svnkr@outerbanks.umaryland.edu | Postdoc | Ph.D. Computational Biology, IIT Guwahati |
+| Dr. Yang Ge | geyang@outerbanks.umaryland.edu | Postdoc | Ph.D. Theoretical and Computational Chemistry, Nanjing University |
+| Dr. Ashlin James Poruthoor | ashj@outerbanks.umaryland.edu | Postdoc | Ph.D. Biophysics, University of Rochester |
 | Jihyeon Lee | jihyeon@outerbanks.umaryland.edu | Graduate Student | M.Sc. Chemistry |
 
 #### Our Lab:
